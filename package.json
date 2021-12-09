@@ -13,5 +13,8 @@
   ],
   "author": "sans",
   "license": "GNU",
-  "git repository":"https://github.com/rainjking/NodejsMongodbLog"
+  "git repository": "https://github.com/rainjking/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
